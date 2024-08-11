@@ -1,3 +1,3 @@
 const a=5
-const c=7
+const b=7
 console.log(a+b);
